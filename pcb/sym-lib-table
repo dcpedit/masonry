@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Tiny60-rescue")(type "Legacy")(uri "D:/Misc/Comms/Completed/60/Tiny60-Rounded/Tiny60-rescue.lib")(options "")(descr ""))
+  (lib (name "AVR-ISP")(type "Legacy")(uri "D:/Misc/Comms/Completed/60/Tiny60-Rounded/AVR-ISP.lib")(options "")(descr ""))
+)
