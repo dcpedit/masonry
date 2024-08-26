@@ -76,3 +76,8 @@ The M3 hardware is for the keyboard case.  The shorter M3 fastener goes above th
 The M2 hardware is to fasten the PCB to the case.  The M2x3mm screws go on the bottom, and the M2x4mm screws go on the top (PCB side), with the M2x4mm standoff extending through the bottom of the case.  The PCB is essentially floating vertically, but is held up by the 1mm case foam.  Below is simple diagram of how everything fits together.
 
 <img src="https://i.imgur.com/EWZpSj6.png" width="350">
+
+### Firmware
+
+QMK/VIA source:
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/dcpedit/masonry
